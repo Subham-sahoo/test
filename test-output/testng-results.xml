@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="149" started-at="2019-11-26T08:42:20Z" finished-at="2019-11-26T08:42:20Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="149" started-at="2019-11-26T08:42:20Z" finished-at="2019-11-26T08:42:20Z">
+      <class name="User_Test.User_Test.USet_test">
+        <test-method status="PASS" signature="CreateUserTest()[pri:0, instance:User_Test.User_Test.USet_test@50c87b21]" name="CreateUserTest" duration-ms="19" started-at="2019-11-26T08:42:20Z" finished-at="2019-11-26T08:42:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateUserTest -->
+        <test-method status="PASS" signature="ModifyUserTest()[pri:0, instance:User_Test.User_Test.USet_test@50c87b21]" name="ModifyUserTest" duration-ms="2" started-at="2019-11-26T08:42:20Z" finished-at="2019-11-26T08:42:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ModifyUserTest -->
+        <test-method status="PASS" signature="delete_User_Test()[pri:0, instance:User_Test.User_Test.USet_test@50c87b21]" name="delete_User_Test" duration-ms="1" started-at="2019-11-26T08:42:20Z" finished-at="2019-11-26T08:42:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_User_Test -->
+      </class> <!-- User_Test.User_Test.USet_test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
